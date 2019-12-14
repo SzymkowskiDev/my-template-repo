@@ -1,10 +1,15 @@
 ![Minion](http://octodex.github.com/images/minion.png)
 
 # Project Title
+📊 Size, dependencies, version, code coverage
+
 Short description.
 
-## 📊 Stats
-Size, dependencies, version, code coverage
+## Contents
+
+
+## 📋 Requirements
+Sth.
 
 ## ⭐ Features
 Introductory sentance.
@@ -53,6 +58,9 @@ Sth
 - [ ] Feature 5
 - [ ] Feature 6
 
+## 🆕 Changelog
+A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
+
 ## ⚙ Configurations
 Sth
 
@@ -88,6 +96,12 @@ Solution to error 2.
 
 
 ``` SOLUTION CODE ```
+
+## 🚀 Upgrading
+Description.
+
+## 📖 Documentation
+Link to the wiki or external site.
 
 ## 🔗 Related Projects / Thanks / References / Acknowledgement 
 * Description 1 [Name 1](http://markdown.github.io)
