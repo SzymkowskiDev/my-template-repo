@@ -48,7 +48,7 @@ Sth
 Sth
 
 ## 📧 Contact
-[![](https://img.shields.io/twitter/url?label=kamil-szymkowski&style=social&url=https%3A%2F%2Ftwitter.com%2FSzymkowskiDev)](https://twitter.com/SzymkowskiDev)
+[![](https://img.shields.io/twitter/url?label=SzymkowskiDev&style=social&url=https%3A%2F%2Ftwitter.com%2FSzymkowskiDev)](https://twitter.com/SzymkowskiDev)
 
 [![](https://img.shields.io/twitter/url?label=Kamil%20Szymkowski&logo=linkedin&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkamil-szymkowski%2F)](https://www.linkedin.com/in/kamil-szymkowski/)
 
