@@ -1,4 +1,3 @@
-![Minion](http://octodex.github.com/images/minion.png)
 
 # Project Title
 📊 Size, dependencies, version, code coverage
