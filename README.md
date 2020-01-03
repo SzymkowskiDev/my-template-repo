@@ -5,7 +5,7 @@
 Short description.
 
 ## Contents
-
+Table of contents goes here
 
 ## 📋 Requirements
 Sth.
